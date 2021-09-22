@@ -6,7 +6,7 @@ Right now, the app shows the data of three pokemon arranged in cards in column. 
 # TO-DO
 Use pokemon API to fetch the data remotely and make it changable/updatable to get more data/more pokemon as well.
 
-Update:
+# Update:
 Finish the TO-DO above and created a new repo for it. Also added a nice readme file showing the screenshots of the app working.
 Link: https://github.com/hitesh19426/pokemon-app-final
 
